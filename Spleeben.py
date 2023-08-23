@@ -55,5 +55,5 @@ async def send_button(ctx: commands.Context):
     )
 
 
-bot.run("MTE0MzkxNDI5NjI2MzMyMzc5MA.GFToSF.MTw5I66okTDsc9M7pmx_3MohVEMXexMfD3phmE")
+bot.run("REDACTED")
 
